@@ -22,7 +22,7 @@
 
 ## Установка и запуск
 ```
-git clone git@github.com:ViktorSitnikov97/PageAnalyzer.git
+git clone git@github.com:ViktorSitnikov97/BrainGames.git
 make run
 ```
 ## Setup
