@@ -20,6 +20,11 @@
 ## [Prime](https://asciinema.org/a/622767)
 Определение простого числа.
 
+## Установка и запуск
+```
+git clone git@github.com:ViktorSitnikov97/PageAnalyzer.git
+make run
+```
 ## Setup
 ```sh
 make build
